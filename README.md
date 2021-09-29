@@ -1,8 +1,6 @@
 # country-hook
  A new version of the countries exercise from part 2 using custom hooks.
  
- #Start the application
- 
  To start an application, do the following :
 
 # Install dependencies
